@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">09-CameraGPS</string>
+    <string name="google_maps_key">AQUI_VOCE_COLOCA_A_CHAVE_GERADA_NO_CONSOLE</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
